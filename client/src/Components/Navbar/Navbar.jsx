@@ -37,7 +37,7 @@ export default function Navbar() {
 
       </div>
       <div className="center">
-        <Link className="link" to="/">ECMSTORE</Link>
+        <Link className="link" to="/">ECMStore</Link>
       </div>
       <div className="right">
         <div className="item">
